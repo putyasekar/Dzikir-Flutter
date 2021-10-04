@@ -1,6 +1,6 @@
 # dzikir_app
 
-Dzikir App as second project
+Dzikir App as not-so-second project sih
 
 ## Getting Started
 
